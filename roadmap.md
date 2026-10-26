@@ -12,3 +12,5 @@
 - [x] Night mode must be true black, not blue
 - [x] No blue colors anywhere
 - [x] Add 'Who we serve' section: banks, fintech, wallets
+- [x] Fix GitHub Pages showing README instead of the site
+- [x] GitHub Pages "Deploy from a branch" (main / root), no GitHub Actions: built index.html + assets in repo root
